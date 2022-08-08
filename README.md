@@ -34,4 +34,4 @@ nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException:
 위 코드 처럼 들어온 message 객체를 다시 재 활용 하는 방식으로 코드를 짜 보았다.  
 input 객체를 다시 재활용 하는 것이 문제가 있을까?  
 
-문제가 있다면 어떤 문제를 야기 할까? 
+문제가 있다면 어떤 문제를 야기 할까?
