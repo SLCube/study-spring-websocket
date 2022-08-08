@@ -1,2 +1,11 @@
-package com.slcube.messagingStompWebsocket;public class MessagingStompWebsocketApplication {
+package com.slcube.messagingStompWebsocket;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MessagingStompWebsocketApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(MessagingStompWebsocketApplication.class);
+    }
 }
